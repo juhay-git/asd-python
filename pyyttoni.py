@@ -1,12 +1,10 @@
 # Lisää oma kommentti ja nimikirjaimet alle
 
 import time
-import system
 import random
 
 # using random.choices() generating random strings
 while True:
-    
 
     res = ''.join(random.choices(string.ascii_letters,k=7))
     f = open(res, "x") 
