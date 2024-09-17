@@ -3,5 +3,5 @@
 import time
 
 while True:
-    print("Hello World!")
+    print("Hello World!")  # Brought to you by JS!
     time.sleep(1)
