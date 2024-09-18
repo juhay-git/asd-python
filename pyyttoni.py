@@ -28,3 +28,5 @@ while True:
 #MY
 
 # JJ was here!
+
+# tekstiä -rn
