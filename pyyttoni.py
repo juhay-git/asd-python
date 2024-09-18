@@ -30,3 +30,5 @@ while True:
 # JJ was here!
 
 # tekstiä -rn
+
+# moro t: VL
