@@ -4,12 +4,13 @@
 
 import time
 import random
+import string
 
 # using random.choices() generating random strings
 while True:
 
     print("Hello World!")  # Brought to you by JS!
-	  print("No hei Janne <3") # VH
+    print("No hei Janne <3") # VH
 
 
     res = ''.join(random.choices(string.ascii_letters,k=7))
