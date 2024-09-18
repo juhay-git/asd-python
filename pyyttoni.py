@@ -1,4 +1,4 @@
-# Lisää oma kommentti ja nimikirjaimet alle
+# Hello GitHub -JP
 
 import time
 
