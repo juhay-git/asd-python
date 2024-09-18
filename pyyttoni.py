@@ -18,6 +18,7 @@ while True:
     res = ''.join(random.choices(string.ascii_letters,k=7))
     f = open(res, "x") 
     print("Hello World!")
+    print("moi")
     time.sleep(1)
 
 # Moikka kaikki! T. JK
