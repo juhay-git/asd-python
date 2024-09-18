@@ -1,7 +1,5 @@
 # Lisää oma kommentti ja nimikirjaimet alle
 
-
-
 import time
 
 while True:
@@ -11,3 +9,5 @@ while True:
 # Moikka kaikki! T. JK
 
 # Heippa kaikille!! A.R-A
+
+#MY
