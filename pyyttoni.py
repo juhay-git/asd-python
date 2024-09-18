@@ -4,6 +4,7 @@
 #TERVE TÄSSÄ MARKUS KOSKI
 # OK
 # Hellou KK
+# Hello GitHub -JP
 
 import time
 import random
