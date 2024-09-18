@@ -2,6 +2,7 @@
 # JANNESII
 # Moro JH
 #TERVE TÄSSÄ MARKUS KOSKI
+# OK
 
 import time
 import random
