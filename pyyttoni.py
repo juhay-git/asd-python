@@ -1,7 +1,7 @@
-# Lisää oma kommentti ja nimikirjaimet alle
+#TERVE TÄSSÄ MARKUS KOSKI
 
 import time
 
 while True:
-    print("Hello World!")  # Brought to you by JS!
+    print("Hello World!")  # Brought to you by JS! KUKA???
     time.sleep(1)
