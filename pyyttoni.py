@@ -1,6 +1,7 @@
 # Lisää oma kommentti ja nimikirjaimet alle
 
 
+
 import time
 
 while True:
@@ -8,3 +9,5 @@ while True:
     time.sleep(1)
 
 # Moikka kaikki! T. JK
+
+# Heippa kaikille!! A.R-A
