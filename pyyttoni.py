@@ -1,9 +1,13 @@
 # Lisää oma kommentti ja nimikirjaimet alle
 
-# Heippa kaikille!! A.R-A
+
 
 import time
 
 while True:
-    print("Hello World!")
+    print("Hello World!")  # Brought to you by JS!
     time.sleep(1)
+
+# Moikka kaikki! T. JK
+
+# Heippa kaikille!! A.R-A
