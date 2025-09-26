@@ -5,6 +5,7 @@
 # OK
 # Hellou KK
 # Hello GitHub -JP
+# Nice git -JL
 
 import time
 import random
